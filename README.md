@@ -1,2 +1,1 @@
-# -1
-my game
+https://makecode.com/_0P62vpCxdL8H
